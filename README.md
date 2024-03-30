@@ -19,10 +19,6 @@ In the DataPrepKit capstone project, students will embark on developing a Python
 - Objective: Design functions for encoding categorical data, allowing their conversion into numerical formats for analysis.
 - Tools: Implement encoding techniques effectively.
 
-5. Package Deployment:
-- Objective: Successfully publish the DataPrepKit package on PyPI to make it readily accessible for downloading and utilization.
-- Tools: Adhere to PyPI guidelines for package deployment.
-
 ## Project Requirements:
 - Proficient use of NumPy and Pandas for data analysis and manipulation.
 - Robust function implementation for data reading, summary generation, missing value handling, and categorical data encoding.
