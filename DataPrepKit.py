@@ -1,7 +1,5 @@
-import pandas as pd
-import numpy as np
-
 class DataPrepKit:
+    import pandas as pd
     def __init__(self, data_path):
         self.data = self._read_data(data_path)
     
