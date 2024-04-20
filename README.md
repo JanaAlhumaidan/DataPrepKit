@@ -8,7 +8,7 @@ A Python package named "DataPrepKit." This package have a series of functions th
 
 2. Data Summary:
 - Objective: Develop functions to print key statistical summaries of the data, including metrics like the average and most frequent values.
-- 
+
 3. Handling Missing Values:
 - Objective: Create functions for addressing missing values, offering solutions to either remove or impute them based on set strategies.
 
